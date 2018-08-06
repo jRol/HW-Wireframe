@@ -44,6 +44,9 @@ h1 {
     color: #777;
     background: #ebebeb;
     height: 60px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 p {
